@@ -1,31 +1,32 @@
-# Olá, me chamo Ana Cássia! 
-## Bem vindo ao meu perfil GitHub 👋
+# 👋 Olá, eu sou {Seu Nome}
 
-- 🌱 Atualmente estou aprendendo linguagem de programação.
-- 😄 Pronomes: Ela/Dela
-- ⚡ Curiosidade: Sou formada em Administração na UNIVÁS.
+## 💼 Perfil Profissional
 
-## Linguagens
+- 💻 Estudante de Programação
+- 🌱 Apaixonado por Tecnologia
+- 🎓 Cursando [Nome do Curso / Instituição]
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40" />
+## 🚀 Habilidades
 
-## Estou aprendendo
+Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizada:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40" />
+## 👨‍💻 Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)
 
-## Contatos:
+## 🧰 Frameworks: 
+[![My Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
 
-<div>
-<a href = "mailto: anainvernizzidev@gmail.com" target="blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
-<a href="https://www.linkedin.com/in/ana-c%C3%A1ssia-figueiredo-invernizzi-2a4632184/" target="blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
-</div>
+## 🗄️ Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)<br><br>
 
-#
-<div>
-<a href="https://github.com/ana-cassia-invernizzi">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-cassia-invernizzi&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-cassia-invernizzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## 📫 Contato
+
+![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})
+[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
+
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dark) <br><br>
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
