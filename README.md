@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou {Seu Nome}
+# 👋 Olá, eu me chamo Ana Cássia
 
 ## 💼 Perfil Profissional
 
 - 💻 Estudante de Programação
-- 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando [Nome do Curso / Instituição]
+- 🌱 Apaixonada por Jogos
+- 🎓 Estudando na Alura
 
 ## 🚀 Habilidades
 
